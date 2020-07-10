@@ -1,4 +1,4 @@
-# Python3 program to add two numbers 
+# Python program to add two numbers 
 
 num1 = 15
 num2 = 12
